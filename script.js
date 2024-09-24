@@ -25,5 +25,5 @@ function tossCoinFunction() {
       result.style.opacity = 1;
       tossBtn.disabled = false;
     }, 500);
-  }, 1000;
+  }, 1000);
 }
